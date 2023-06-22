@@ -1,9 +1,6 @@
 ## Link
-- [Twitter](https://twitter.com/aoi_ssx)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aoissx&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoissx" />
-</a>
+Vtuber やったりしてます。
+
+- [Twitter](https://twitter.com/aoi_ssx)
+- [GitHub](https://github.com/aoissx)
